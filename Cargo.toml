@@ -1,0 +1,11 @@
+[package]
+name = "aoc-2020"
+version = "0.1.0"
+authors = ["Gianluca Recchia <gianluca.recchia@protonmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "My solutions for AoC 2020"
+readme = "README.md"
+
+[profile.release]
+lto = "fat"
