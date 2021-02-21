@@ -2,7 +2,8 @@
 
 ## What is this?
 
-These are my solutions for the Advent of Code contest, for the year 2020.
+These are my solutions for the [Advent of Code](https://adventofcode.com/2020)
+contest, for the year 2020.
 
 All the code will be in the `src/bin` directory and all input files will be in
 the `src/input` folder.
