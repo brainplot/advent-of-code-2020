@@ -9,3 +9,6 @@ readme = "README.md"
 
 [profile.release]
 lto = "fat"
+
+[dependencies]
+clap = "3.0.0-beta.2"
